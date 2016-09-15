@@ -1,0 +1,2 @@
+export const PULL_UP_VISIBLE = "PULL_UP_VISIBLE";
+export const PULL_UP_SET_TITLE = "PULL_UP_SET_TITLE";
