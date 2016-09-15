@@ -23,6 +23,8 @@
     "babel-loader": "^6.2.5",
     "babel-preset-es2015": "^6.14.0",
     "classnames": "^2.2.5",
+    "electron": "^1.4.0",
+    "electron-window-state": "^3.0.4",
     "gulp": "^3.9.1",
     "gulp-eslint": "^3.0.1",
     "gulp-util": "^3.0.7",
