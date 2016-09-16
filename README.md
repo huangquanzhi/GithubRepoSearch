@@ -1,5 +1,8 @@
 # GithubRepoSearch
 
+Demo:
+<url>http://project.jackiehuang.ca/gitsearch/</url>
+
 Start with 
 <code> npm install </code>
 
