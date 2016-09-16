@@ -97,6 +97,11 @@ class FormContainer extends Component {
 
       statesActions.showPullupBar(!states.pullupBar_visible);
       e.stopPropagation();
+    } else {
+      if (!states.notification.visible) {
+        statesActions.setNitificationMessage("Please enter search ...");
+        statesActions.showNotification(true);
+      }
     }
   }
 

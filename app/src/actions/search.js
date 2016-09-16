@@ -10,6 +10,7 @@ import {
   GITHUB_SEARCH_REPOSITORIES
 } from '../constants/settings';
 
+
 const setSearchStatus = (success, message) => {
   return { type: SEARCH_RESULT_STATUS, success, message };
 };
